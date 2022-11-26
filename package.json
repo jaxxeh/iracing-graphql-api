@@ -1,7 +1,7 @@
 {
-  "name": "graphql-apollo-boilerplate",
-  "version": "1.0.0",
-  "description": "GraphQL/Apollo boilerplate",
+  "name": "iracing-graphql-api",
+  "version": "0.1.0",
+  "description": "GraphQL/Apollo API implementation of the iRacing Data API",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
